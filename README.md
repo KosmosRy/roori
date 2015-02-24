@@ -1,2 +1,1 @@
-# roori
-Rööri - Yhdistyksen kollektiivinen muisti
+# Rööri - Yhdistyksen kollektiivinen muisti
